@@ -1,11 +1,11 @@
 body
 {
- background-color: gray; 
+ background-color: black; 
  color: red; 
 }
 h1
 {
- font-size: 50px;
+ font-size: 150px;
  font-family: "comic Sans Ms";
  text-align: center;
 }
