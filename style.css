@@ -8,5 +8,5 @@ h1
  font-size: 150px;
  font-family: "comic Sans Ms";
  text-align: center;
- ox-shadow: 6px 6px 6px gray;
+ box-shadow: 6px 6px 6px gray;
 }
